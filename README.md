@@ -22,9 +22,9 @@ My research interests include **Data analisys**, **Cloud-Edge Collaboration**, a
 **Stage II: Resilient Appoach**
 - 🎉\[JBCS\] **A Robust Client Selection Mechanism for Federated Learning Environments**. [\[paper\]](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/4325) [\[code\]](https://github.com/OrenanM/Trabalho-IC/tree/master/PFL-Non-IID-RESILIENCE)
   - **Rafael Veiga**, John Sousa, Renan Morais, Lucas Bastos, Denis Rosário, Eduardo Cerqueira
-- 🎉\[CloudNet\] **RiCAM: An Efficient Multicriteria Client Selection Mechanism for Federated Learning**. [\[code\]](https://github.com/VeigarGit/RiCAm)
+- 🎉\[CloudNet\] **RiCAM: An Efficient Multicriteria Client Selection Mechanism for Federated Learning**. [\[paper\]](https://ieeexplore.ieee.org/document/10815742) [\[code\]](https://github.com/VeigarGit/RiCAm)
   - **Rafael Veiga**, Renan Morais, Marcos Seruffo, Denis Rosário, Eduardo Cerqueira
-- 🎉\[CloudNet\] **Resilience-aware Quarantine Selection Mechanism for Federated Learning Environments**. [\[code\]](https://github.com/OrenanM/RUBUST-FL)
+- 🎉\[CloudNet\] **Resilience-aware Quarantine Selection Mechanism for Federated Learning Environments**. [\[paper\]](https://ieeexplore.ieee.org/document/10815915) [\[code\]](https://github.com/OrenanM/RUBUST-FL)
   - **Rafael Veiga**, Renan Morais, Lucas Bastos, Leandro Villas, Denis Rosário, Eduardo Cerqueira
  
 # Awards
@@ -53,3 +53,4 @@ My research interests include **Data analisys**, **Cloud-Edge Collaboration**, a
 <a href = "malito:rafael.teixeira.silva@icen.ufpa.br">
 <img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
+rafael.teixeira.silva@icen.ufpa.br
